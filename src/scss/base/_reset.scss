@@ -1,0 +1,32 @@
+html, 
+body { 
+    height: 100%; 
+}
+
+body { 
+    margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; 
+    background: var(--black);
+}
+
+h1, h2, h3 {
+    font-size: 22px;
+}
+
+h1, h2, h3 {
+    color: var(--white);
+}
+
+p {
+    color: var(--grey);
+    font-size:16px ;
+}
+
+article p {
+    color: var(--secondary);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
