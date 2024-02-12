@@ -57,20 +57,6 @@ export class ProjectsComponent {
         }
       ]
     },
-    {
-      src: 'assets/img/projects/project2.png',
-      alt: 'NoteVoult, anotações do dia a dia!',
-      title: 'Note Vault',
-      width: '100px',
-      height: '51px',
-      description: '<p> O projeto Note Vault foi criado para uso próprio, utilizo para fazer minha lista de tarefas e consigo praticar meu JS. Aqui trabalhei utilizando localStorage para não perder os dados, ter alguns trabalhos de CRUD e simular dados vindos do back-end, onde consigo deletar,receber informações salvas, filtrar as tarefas por letra ou nome. Com isso consigo praticar receber os dados e apresentar na tela do usuário. </p>',
-      links: [
-        {
-          name: 'Conheça o Projeto',
-          href: 'https://williammoro.github.io/NoteVault_Todo/'
-        }
-      ]
-    },
     
     
  
